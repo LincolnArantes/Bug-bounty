@@ -1,0 +1,21 @@
+https://www.bugcrowd.com/
+
+
+-log:
+
+https://identity.bugcrowd.com/login?user_hint=researcher&returnTo=https%3A%2F%2Fbugcrowd.com%2Fdashboard
+
+
+
+
+
+https://www.hackerone.com/
+
+- https://hackerone.com/directory/programs
+
+
+
+-Log:
+
+
+https://hackerone.com/users/sign_in
